@@ -1,4 +1,6 @@
 Led Controlled Project Using Arduino and OpenCV
+
+
 Project Explanation
 This project allows you to control five LEDs using hand gestures, leveraging an Arduino Uno and OpenCV for real-time gesture recognition. By using a camera to capture video, OpenCV processes the frames to detect specific hand gestures and sends commands to the Arduino to turn the LEDs on or off.
 
